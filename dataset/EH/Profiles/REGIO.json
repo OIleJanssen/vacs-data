@@ -1,5 +1,5 @@
 {
-  "id": "EHAM",
+  "id": "REGIO",
   "type": "Tabbed",
   "tabs": [
     {
@@ -164,28 +164,46 @@
             "color": "steel"
           },
           {
-            "label": [],
-            "color": "steel"
+            "label": [
+              "AMS1"
+            ],
+            "color": "azure",
+            "station_id": "EHAA_ALL"
           },
           {
-            "label": [],
-            "color": "steel"
+            "label": [
+              "AMS2"
+            ],
+            "color": "azure",
+            "station_id": "EHAA_E_CTR"
           },
           {
-            "label": [],
-            "color": "steel"
+            "label": [
+              "AMS3"
+            ],
+            "color": "azure",
+            "station_id": "EHAA_S_CTR"
           },
           {
-            "label": [],
-            "color": "steel"
+            "label": [
+              "AMS4"
+            ],
+            "color": "azure",
+            "station_id": "EHAA_LOW_CTR"
           },
           {
-            "label": [],
-            "color": "steel"
+            "label": [
+              "AMS5"
+            ],
+            "color": "azure",
+            "station_id": "EHAA_W_CTR"
           },
           {
-            "label": [],
-            "color": "steel"
+            "label": [
+              "FMP"
+            ],
+            "station_id": "EHAA_FMP",
+            "color": "lavender"
           },
           {
             "label": [],
@@ -197,15 +215,12 @@
           }
         ]
       }
-    }
-  ],
+    },
     {
-      [
       "label": "EHAM",
       "page": {
         "rows": 4,
         "keys": [
-          
           {
             "label": [
               "DEL"
@@ -342,44 +357,28 @@
             "color": "mint"
           },
           {
-            "label": [
-              "AMS1"
-            ],
-            "color": "azure",
-            "station_id": "EHAA_ALL"
+            "label": [],
+            "color": "steel"
           },
           {
-            "label": [
-              "AMS2"
-            ],
-            "color": "azure",
-            "station_id": "EHAA_E_CTR"
+            "label": [],
+            "color": "steel"
           },
           {
-            "label": [
-              "AMS3"
-            ],
-            "color": "azure",
-            "station_id": "EHAA_S_CTR"
+            "label": [],
+            "color": "steel"
           },
           {
-            "label": [
-              "AMS4"
-            ],
-            "color": "azure",
-            "station_id": "EHAA_LOW_CTR"
+            "label": [],
+            "color": "steel"
           },
           {
-            "label": [
-              "AMS5"
-            ],
-            "color": "azure",
-            "station_id": "EHAA_W_CTR"
+            "label": [],
+            "color": "steel"
           },
           {
-            "label": ["FMP"],
-            "station_id": "EHAA_FMP",
-            "color": "lavender"
+            "label": [],
+            "color": "steel"
           },
           {
             "label": [],
