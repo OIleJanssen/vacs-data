@@ -1,0 +1,465 @@
+{
+  "stations": [
+    {
+      "id": "EHAA_ALL",
+      "controlled_by": [
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHAA_LOW",
+      "controlled_by": [
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHAA_W",
+      "controlled_by": [
+        "EHAA_W_CTR",
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHAA_E",
+      "controlled_by": [
+        "EHAA_E_CTR",
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHAA_S",
+      "controlled_by": [
+        "EHAA_S_CTR",
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHMC",
+      "controlled_by": [
+        "EHMC_CTR",
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHAM_W_APP",
+      "controlled_by": [
+        "EHAM_W_APP",
+        "EHAA_W_CTR",
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHAM_E_APP",
+      "controlled_by": [
+        "EHAM_E_APP",
+        "EHAA_E_CTR",
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHAM_A_APP",
+      "controlled_by": [
+        "EHAM_A_APP",
+        "EHAM_W_APP",
+        "EHAM_E_APP",
+        "EHAA_W_CTR",
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHAM_S_APP",
+      "controlled_by": [
+        "EHAM_S_APP",
+        "EHAM_W_APP",
+        "EHAM_E_APP",
+        "EHAA_W_CTR",
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHAM_M_TWR",
+      "controlled_by": [
+        "EHAM_M_TWR",
+        "EHAM_A_APP",
+        "EHAM_W_APP",
+        "EHAA_W_CTR",
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHAM_P_TWR",
+      "controlled_by": [
+        "EHAM_P_TWR",
+        "EHAM_M_TWR",
+        "EHAM_A_APP",
+        "EHAM_W_APP",
+        "EHAA_W_CTR",
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHAM_S_TWR",
+      "controlled_by": [
+        "EHAM_S_TWR",
+        "EHAM_M_TWR",
+        "EHAM_A_APP",
+        "EHAM_W_APP",
+        "EHAA_W_CTR",
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHAM_N_GND",
+      "controlled_by": [
+        "EHAM_N_GND",
+        "EHAM_M_TWR",
+        "EHAM_A_APP",
+        "EHAM_W_APP",
+        "EHAA_W_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHAM_S_GND",
+      "controlled_by": [
+        "EHAM_S_GND",
+        "EHAM_M_TWR",
+        "EHAM_A_APP",
+        "EHAM_W_APP",
+        "EHAA_W_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHAM_C_GND",
+      "controlled_by": [
+        "EHAM_C_GND",
+        "EHAM_M_TWR",
+        "EHAM_A_APP",
+        "EHAM_W_APP",
+        "EHAA_W_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHAM_W_GND",
+      "controlled_by": [
+        "EHAM_W_GND",
+        "EHAM_P_TWR",
+        "EHAM_M_TWR",
+        "EHAM_A_APP",
+        "EHAM_W_APP",
+        "EHAA_W_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHAM_DEL",
+      "controlled_by": [
+        "EHAM_DEL",
+        "EHAM_N_GND",
+        "EHAM_S_GND",
+        "EHAM_C_GND",
+        "EHAM_M_TWR",
+        "EHAM_A_APP",
+        "EHAM_W_APP",
+        "EHAA_W_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHAM_P_DEL",
+      "controlled_by": [
+        "EHAM_P_DEL",
+        "EHAM_DEL",
+        "EHAM_N_GND",   
+        "EHAM_S_GND",
+        "EHAM_C_GND",     
+        "EHAM_M_TWR",
+        "EHAM_A_APP",
+        "EHAM_W_APP",
+        "EHAA_W_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHRD_APP",
+      "controlled_by": [
+        "EHRD_APP",
+        "EHAM_W_APP",
+        "EHAA_W_CTR",
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHRD_TWR",
+      "controlled_by": [
+        "EHRD_TWR",
+        "EHRD_APP",
+        "EHAM_W_APP",
+        "EHAA_W_CTR",
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHRD_DEL",
+      "controlled_by": [
+        "EHRD_DEL",
+        "EHRD_TWR",
+        "EHRD_APP",
+        "EHAM_W_APP",
+        "EHAA_W_CTR",
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHEH_APP",
+      "controlled_by": [
+        "EHEH_APP",
+        "EHMC_CTR",
+        "EHAA_E_CTR",
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHEH_TWR",
+      "controlled_by": [
+        "EHEH_TWR",
+        "EHEH_APP",
+        "EHMC_CTR",
+        "EHAA_E_CTR",
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHEH_GND",
+      "controlled_by": [
+        "EHEH_GND",
+        "EHEH_TWR",
+        "EHEH_APP",
+        "EHMC_CTR",
+        "EHAA_E_CTR",
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHLE_APP",
+      "controlled_by": [
+        "EHLE_APP",
+        "EHAM_W_APP",
+        "EHAA_W_CTR",
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHLE_TWR",
+      "controlled_by": [
+        "EHLE_TWR",
+        "EHLE_APP",
+        "EHAM_W_APP",
+        "EHAA_W_CTR",
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHLE_DEL",
+      "controlled_by": [
+        "EHLE_DEL",
+        "EHLE_TWR",
+        "EHLE_APP",
+        "EHAM_W_APP",
+        "EHAA_W_CTR",
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHBK_APP",
+      "controlled_by": [
+        "EHBK_APP",
+        "EHAA_S_CTR",
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHBK_TWR",
+      "controlled_by": [
+        "EHBK_TWR",
+        "EHBK_APP",
+        "EHAA_S_CTR",
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHBK_DEL",
+      "controlled_by": [
+        "EHBK_DEL",
+        "EHBK_TWR",
+        "EHBK_APP",
+        "EHAA_S_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHGG_APP",
+      "controlled_by": [
+        "EHGG_APP",
+        "EHAA_E_CTR",
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHGG_TWR",
+      "controlled_by": [
+        "EHGG_TWR",
+        "EHGG_APP",
+        "EHAA_E_CTR",
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHGG_DEL",
+      "controlled_by": [
+        "EHGG_DEL",
+        "EHGG_TWR",
+        "EHGG_APP",
+        "EHAA_E_CTR",
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHGR_APP",
+      "controlled_by": [
+        "EHGR_APP",
+        "EHMC_CTR",
+        "EHAA_S_CTR",
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHGR_TWR",
+      "controlled_by": [
+        "EHGR_TWR",
+        "EHGR_APP",
+        "EHMC_CTR",
+        "EHAA_S_CTR",
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHKD_APP",
+      "controlled_by": [
+        "EHKD_APP",
+        "EHMC_CTR",
+        "EHAA_W_CTR",
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHKD_TWR",
+      "controlled_by": [
+        "EHKD_TWR",
+        "EHKD_APP",
+        "EHMC_CTR",
+        "EHAA_W_CTR",
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHLW_APP",
+      "controlled_by": [
+        "EHLW_APP",
+        "EHMC_CTR",
+        "EHAA_E_CTR",
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHLW_TWR",
+      "controlled_by": [
+        "EHLW_TWR",
+        "EHLW_APP",
+        "EHMC_CTR",
+        "EHAA_E_CTR",
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHMZ_TWR",
+      "controlled_by": [
+        "EHMZ_TWR",
+        "EHAA_W_CTR",
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHVK_APP",
+      "controlled_by": [
+        "EHVK_APP",
+        "EHMC_CTR",
+        "EHAA_S_CTR",
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHVK_TWR",
+      "controlled_by": [
+        "EHVK_TWR",
+        "EHVK_APP",
+        "EHMC_CTR",
+        "EHAA_S_CTR",
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHWO_TWR",
+      "controlled_by": [
+        "EHWO_TWR",
+        "EHMC_CTR",
+        "EHAA_S_CTR",
+        "EHAA_LOW_CTR",
+        "EHAA_ALL_CTR"
+      ]
+    },
+    {
+      "id": "EHAA_FMP",
+      "controlled_by": [
+        "EHAA_FMP"
+      ]
+    }
+  ]
+}
