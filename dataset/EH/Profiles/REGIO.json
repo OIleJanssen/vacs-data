@@ -390,6 +390,19 @@
           }
         ]
       }
+    },
+    {
+  "label": "ALL",
+  "page": {
+    "rows": 6,
+    "client_page": {
+      "include": ["*"],
+      "exclude": [],
+      "priority": [],
+      "frequencies": "ShowAll",
+      "grouping": "FirAndIcao"
     }
+  }
+}
   ]
 }
