@@ -86,14 +86,13 @@
     },
     {
       "id": "EHAM_W_GND",
-      "controlled_by": ["EHAM_W_GND","EHAM_P_TWR"],
+      "controlled_by": ["EHAM_W_GND", "EHAM_P_TWR"],
       "parent_id": "EHAM_M_TWR"
     },
     {
       "id": "EHAM_DEL",
       "controlled_by": ["EHAM_DEL"],
       "parent_id": "EHAM_N_GND"
-
     },
     {
       "id": "EHAM_P_DEL",
@@ -129,7 +128,6 @@
       "id": "EHEH_GND",
       "controlled_by": ["EHEH_GND"],
       "parent_id": "EHEH_TWR"
-      
     },
     {
       "id": "EHLE_APP",
