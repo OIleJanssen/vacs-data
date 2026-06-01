@@ -20,12 +20,7 @@
       "frequency": "125.750",
       "facility_type": "CTR",
       "profile_id": "EHAA",
-      "default_call_sources": [
-        "EHAA_LOW",
-        "EHAA_W",
-        "EHAA_E",
-        "EHAA_S"
-      ]
+      "default_call_sources": ["EHAA_LOW", "EHAA_W", "EHAA_E", "EHAA_S"]
     },
     {
       "id": "EHAA_W_CTR",
