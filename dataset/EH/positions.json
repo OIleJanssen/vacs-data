@@ -88,7 +88,14 @@
       "profile_id": "EHAM",
       "default_call_sources": ["EHAM_S_APP"]
     },
-
+    {
+      "id": "EHAM_B_APP",
+      "prefixes": ["EHAM"],
+      "frequency": "131.155",
+      "facility_type": "APP",
+      "profile_id": "EHAM",
+      "default_call_sources": ["EHAM_B_APP"]
+    },
     {
       "id": "EHAM_M_TWR",
       "prefixes": ["EHAM"],
