@@ -2,48 +2,27 @@
   "stations": [
     {
       "id": "EHAA_ALL",
-      "controlled_by": [
-        "EHAA_ALL_CTR"
-      ]
+      "controlled_by": ["EHAA_ALL_CTR"]
     },
     {
       "id": "EHAA_LOW",
-      "controlled_by": [
-        "EHAA_LOW_CTR",
-        "EHAA_ALL_CTR"
-      ]
+      "controlled_by": ["EHAA_LOW_CTR", "EHAA_ALL_CTR"]
     },
     {
       "id": "EHAA_W",
-      "controlled_by": [
-        "EHAA_W_CTR",
-        "EHAA_LOW_CTR",
-        "EHAA_ALL_CTR"
-      ]
+      "controlled_by": ["EHAA_W_CTR", "EHAA_LOW_CTR", "EHAA_ALL_CTR"]
     },
     {
       "id": "EHAA_E",
-      "controlled_by": [
-        "EHAA_E_CTR",
-        "EHAA_LOW_CTR",
-        "EHAA_ALL_CTR"
-      ]
+      "controlled_by": ["EHAA_E_CTR", "EHAA_LOW_CTR", "EHAA_ALL_CTR"]
     },
     {
       "id": "EHAA_S",
-      "controlled_by": [
-        "EHAA_S_CTR",
-        "EHAA_LOW_CTR",
-        "EHAA_ALL_CTR"
-      ]
+      "controlled_by": ["EHAA_S_CTR", "EHAA_LOW_CTR", "EHAA_ALL_CTR"]
     },
     {
       "id": "EHMC",
-      "controlled_by": [
-        "EHMC_CTR",
-        "EHAA_LOW_CTR",
-        "EHAA_ALL_CTR"
-      ]
+      "controlled_by": ["EHMC_CTR", "EHAA_LOW_CTR", "EHAA_ALL_CTR"]
     },
     {
       "id": "EHAM_W_APP",
@@ -184,9 +163,9 @@
       "controlled_by": [
         "EHAM_P_DEL",
         "EHAM_DEL",
-        "EHAM_N_GND",   
+        "EHAM_N_GND",
         "EHAM_S_GND",
-        "EHAM_C_GND",     
+        "EHAM_C_GND",
         "EHAM_M_TWR",
         "EHAM_A_APP",
         "EHAM_W_APP",
@@ -457,9 +436,7 @@
     },
     {
       "id": "EHAA_FMP",
-      "controlled_by": [
-        "EHAA_FMP"
-      ]
+      "controlled_by": ["EHAA_FMP"]
     }
   ]
 }
