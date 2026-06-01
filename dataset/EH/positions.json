@@ -169,7 +169,7 @@
       "prefixes": ["EHRD"],
       "frequency": "122.990",
       "facility_type": "APP",
-      "profile_id": "REGIONAL",
+      "profile_id": "REGIO",
       "default_call_sources": ["EHRD_APP"]
     },
     {
@@ -177,7 +177,7 @@
       "prefixes": ["EHRD"],
       "frequency": "118.205",
       "facility_type": "TWR",
-      "profile_id": "REGIONAL",
+      "profile_id": "REGIO",
       "default_call_sources": ["EHRD_TWR"]
     },
     {
@@ -185,7 +185,7 @@
       "prefixes": ["EHRD"],
       "frequency": "122.180",
       "facility_type": "DEL",
-      "profile_id": "REGIONAL",
+      "profile_id": "REGIO",
       "default_call_sources": ["EHRD_DEL"]
     },
 
@@ -194,7 +194,7 @@
       "prefixes": ["EHEH"],
       "frequency": "124.530",
       "facility_type": "APP",
-      "profile_id": "REGIONAL",
+      "profile_id": "REGIO",
       "default_call_sources": ["EHEH_APP"]
     },
     {
@@ -202,7 +202,7 @@
       "prefixes": ["EHEH"],
       "frequency": "131.005",
       "facility_type": "TWR",
-      "profile_id": "REGIONAL",
+      "profile_id": "REGIO",
       "default_call_sources": ["EHEH_TWR"]
     },
     {
@@ -210,7 +210,7 @@
       "prefixes": ["EHEH"],
       "frequency": "121.930",
       "facility_type": "GND",
-      "profile_id": "REGIONAL",
+      "profile_id": "REGIO",
       "default_call_sources": ["EHEH_GND"]
     },
 
@@ -219,7 +219,7 @@
       "prefixes": ["EHLE"],
       "frequency": "134.530",
       "facility_type": "APP",
-      "profile_id": "REGIONAL",
+      "profile_id": "REGIO",
       "default_call_sources": ["EHLE_APP"]
     },
     {
@@ -227,7 +227,7 @@
       "prefixes": ["EHLE"],
       "frequency": "135.180",
       "facility_type": "TWR",
-      "profile_id": "REGIONAL",
+      "profile_id": "REGIO",
       "default_call_sources": ["EHLE_TWR"]
     },
     {
@@ -235,7 +235,7 @@
       "prefixes": ["EHLE"],
       "frequency": "123.680",
       "facility_type": "DEL",
-      "profile_id": "REGIONAL",
+      "profile_id": "REGIO",
       "default_call_sources": ["EHLE_DEL"]
     },
 
@@ -244,7 +244,7 @@
       "prefixes": ["EHBK"],
       "frequency": "123.980",
       "facility_type": "APP",
-      "profile_id": "REGIONAL",
+      "profile_id": "REGIO",
       "default_call_sources": ["EHBK_APP"]
     },
     {
@@ -252,7 +252,7 @@
       "prefixes": ["EHBK"],
       "frequency": "119.480",
       "facility_type": "TWR",
-      "profile_id": "REGIONAL",
+      "profile_id": "REGIO",
       "default_call_sources": ["EHBK_TWR"]
     },
     {
@@ -260,7 +260,7 @@
       "prefixes": ["EHBK"],
       "frequency": "121.830",
       "facility_type": "DEL",
-      "profile_id": "REGIONAL",
+      "profile_id": "REGIO",
       "default_call_sources": ["EHBK_DEL"]
     },
 
@@ -269,7 +269,7 @@
       "prefixes": ["EHGG"],
       "frequency": "120.305",
       "facility_type": "APP",
-      "profile_id": "REGIONAL",
+      "profile_id": "REGIO",
       "default_call_sources": ["EHGG_APP"]
     },
     {
@@ -277,7 +277,7 @@
       "prefixes": ["EHGG"],
       "frequency": "118.705",
       "facility_type": "TWR",
-      "profile_id": "REGIONAL",
+      "profile_id": "REGIO",
       "default_call_sources": ["EHGG_TWR"]
     },
     {
@@ -285,7 +285,7 @@
       "prefixes": ["EHGG"],
       "frequency": "121.705",
       "facility_type": "DEL",
-      "profile_id": "REGIONAL",
+      "profile_id": "REGIO",
       "default_call_sources": ["EHGG_DEL"]
     },
 
@@ -294,7 +294,7 @@
       "prefixes": ["EHGR"],
       "frequency": "123.580",
       "facility_type": "APP",
-      "profile_id": "REGIONAL",
+      "profile_id": "REGIO",
       "default_call_sources": ["EHGR_APP"]
     },
     {
@@ -302,7 +302,7 @@
       "prefixes": ["EHGR"],
       "frequency": "125.330",
       "facility_type": "TWR",
-      "profile_id": "REGIONAL",
+      "profile_id": "REGIO",
       "default_call_sources": ["EHGR_TWR"]
     },
 
@@ -311,7 +311,7 @@
       "prefixes": ["EHKD"],
       "frequency": "124.230",
       "facility_type": "APP",
-      "profile_id": "REGIONAL",
+      "profile_id": "REGIO",
       "default_call_sources": ["EHKD_APP"]
     },
     {
@@ -319,7 +319,7 @@
       "prefixes": ["EHKD"],
       "frequency": "120.130",
       "facility_type": "TWR",
-      "profile_id": "REGIONAL",
+      "profile_id": "REGIO",
       "default_call_sources": ["EHKD_TWR"]
     },
 
@@ -328,7 +328,7 @@
       "prefixes": ["EHLW"],
       "frequency": "132.030",
       "facility_type": "APP",
-      "profile_id": "REGIONAL",
+      "profile_id": "REGIO",
       "default_call_sources": ["EHLW_APP"]
     },
     {
@@ -336,7 +336,7 @@
       "prefixes": ["EHLW"],
       "frequency": "120.705",
       "facility_type": "TWR",
-      "profile_id": "REGIONAL",
+      "profile_id": "REGIO",
       "default_call_sources": ["EHLW_TWR"]
     },
 
@@ -345,7 +345,7 @@
       "prefixes": ["EHMZ"],
       "frequency": "119.255",
       "facility_type": "TWR",
-      "profile_id": "REGIONAL",
+      "profile_id": "REGIO",
       "default_call_sources": ["EHMZ_TWR"]
     },
 
@@ -354,7 +354,7 @@
       "prefixes": ["EHVK"],
       "frequency": "123.180",
       "facility_type": "APP",
-      "profile_id": "REGIONAL",
+      "profile_id": "REGIO",
       "default_call_sources": ["EHVK_APP"]
     },
     {
@@ -362,7 +362,7 @@
       "prefixes": ["EHVK"],
       "frequency": "136.080",
       "facility_type": "TWR",
-      "profile_id": "REGIONAL",
+      "profile_id": "REGIO",
       "default_call_sources": ["EHVK_TWR"]
     },
 
@@ -371,7 +371,7 @@
       "prefixes": ["EHWO"],
       "frequency": "120.430",
       "facility_type": "TWR",
-      "profile_id": "REGIONAL",
+      "profile_id": "REGIO",
       "default_call_sources": ["EHWO_TWR"]
     },
     {
