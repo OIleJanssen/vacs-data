@@ -174,12 +174,12 @@
           {
             "label": ["DEL"],
             "station_id": "EHAM_DEL",
-            "color": "clay"
+            "color": "azure"
           },
           {
             "label": ["OPL"],
             "station_id": "EHAM_P_DEL",
-            "color": "clay"
+            "color": "azure"
           },
           {
             "label": [],
@@ -190,40 +190,24 @@
             "color": "steel"
           },
           {
-            "label": [],
-            "color": "steel"
-          },
-          {
-            "label": [],
-            "color": "steel"
-          },
-          {
-            "label": [],
-            "color": "steel"
-          },
-          {
-            "label": [],
-            "color": "steel"
-          },
-          {
-            "label": ["GC1"],
+            "label": ["GC1", "(S)"],
             "station_id": "EHAM_S_GND",
-            "color": "lavender"
+            "color": "azure"
           },
           {
-            "label": ["GC2"],
+            "label": ["GC2", "(N)"],
             "station_id": "EHAM_N_GND",
-            "color": "lavender"
+            "color": "azure"
           },
           {
-            "label": ["GC3"],
+            "label": ["GC3", "(C)"],
             "station_id": "EHAM_C_GND",
-            "color": "lavender"
+            "color": "azure"
           },
           {
-            "label": ["GCW"],
+            "label": ["GCW", "(W)"],
             "station_id": "EHAM_W_GND",
-            "color": "lavender"
+            "color": "azure"
           },
           {
             "label": ["TW1"],
@@ -245,40 +229,57 @@
             "color": "steel"
           },
           {
-            "label": [],
-            "color": "steel"
-          },
-          {
-            "label": [],
-            "color": "steel"
-          },
-          {
-            "label": [],
-            "color": "steel"
-          },
-          {
-            "label": [],
-            "color": "steel"
-          },
-          {
             "label": ["FD1"],
             "station_id": "EHAM_W_APP",
-            "color": "mint"
+            "color": "azure"
           },
           {
             "label": ["FD2"],
             "station_id": "EHAM_E_APP",
-            "color": "mint"
+            "color": "azure"
+          },
+          {
+            "label": [],
+            "color": "steel"
+          },
+          {
+            "label": [],
+            "color": "steel"
           },
           {
             "label": ["AR1"],
             "station_id": "EHAM_A_APP",
-            "color": "mint"
+            "color": "azure"
           },
           {
             "label": ["AR2"],
             "station_id": "EHAM_S_APP",
-            "color": "mint"
+            "color": "azure"
+          },
+          {
+            "label": ["AR3"],
+            "station_id": "EHAM_B_APP",
+            "color": "azure"
+          },
+          {
+            "label": [],
+            "color": "steel"
+          },
+          {
+            "label": [],
+            "color": "steel"
+          },
+          {
+            "label": [],
+            "color": "steel"
+          },
+          {
+            "label": [],
+            "color": "steel"
+          },
+          {
+            "label": [],
+            "color": "steel"
           },
           {
             "label": [],
@@ -323,17 +324,17 @@
           {
             "label": ["RD", "APP"],
             "station_id": "EHRD_APP",
-            "color": "lilac"
+            "color": "azure"
           },
           {
             "label": ["RD", "TWR"],
             "station_id": "EHRD_TWR",
-            "color": "lilac"
+            "color": "azure"
           },
           {
             "label": ["RD", "DEL"],
             "station_id": "EHRD_DEL",
-            "color": "lilac"
+            "color": "azure"
           },
           {
             "label": [],
@@ -342,17 +343,17 @@
           {
             "label": ["EH", "APP"],
             "station_id": "EHEH_APP",
-            "color": "mint"
+            "color": "azure"
           },
           {
             "label": ["EH", "TWR"],
             "station_id": "EHEH_TWR",
-            "color": "mint"
+            "color": "azure"
           },
           {
             "label": ["EH", "GND"],
             "station_id": "EHEH_GND",
-            "color": "mint"
+            "color": "azure"
           },
           {
             "label": [],
@@ -361,17 +362,17 @@
           {
             "label": ["LE", "APP"],
             "station_id": "EHLE_APP",
-            "color": "lilac"
+            "color": "azure"
           },
           {
             "label": ["LE", "TWR"],
             "station_id": "EHLE_TWR",
-            "color": "lilac"
+            "color": "azure"
           },
           {
             "label": ["LE", "DEL"],
             "station_id": "EHLE_DEL",
-            "color": "lilac"
+            "color": "azure"
           },
           {
             "label": [],
@@ -380,17 +381,17 @@
           {
             "label": ["BK", "APP"],
             "station_id": "EHBK_APP",
-            "color": "mint"
+            "color": "azure"
           },
           {
             "label": ["BK", "TWR"],
             "station_id": "EHBK_TWR",
-            "color": "mint"
+            "color": "azure"
           },
           {
             "label": ["BK", "DEL"],
             "station_id": "EHBK_DEL",
-            "color": "mint"
+            "color": "azure"
           },
           {
             "label": [],
@@ -399,17 +400,17 @@
           {
             "label": ["GG", "APP"],
             "station_id": "EHGG_APP",
-            "color": "lilac"
+            "color": "azure"
           },
           {
             "label": ["GG", "TWR"],
             "station_id": "EHGG_TWR",
-            "color": "lilac"
+            "color": "azure"
           },
           {
             "label": ["GG", "DEL"],
             "station_id": "EHGG_DEL",
-            "color": "lilac"
+            "color": "azure"
           },
           {
             "label": [],
@@ -474,12 +475,12 @@
           {
             "label": ["GR", "APP"],
             "station_id": "EHGR_APP",
-            "color": "mint"
+            "color": "azure"
           },
           {
             "label": ["GR", "TWR"],
             "station_id": "EHGR_TWR",
-            "color": "mint"
+            "color": "azure"
           },
           {
             "label": [],
@@ -492,12 +493,12 @@
           {
             "label": ["KD", "APP"],
             "station_id": "EHKD_APP",
-            "color": "lilac"
+            "color": "azure"
           },
           {
             "label": ["KD", "TWR"],
             "station_id": "EHKD_TWR",
-            "color": "lilac"
+            "color": "azure"
           },
           {
             "label": [],
@@ -510,12 +511,12 @@
           {
             "label": ["LW", "APP"],
             "station_id": "EHLW_APP",
-            "color": "mint"
+            "color": "azure"
           },
           {
             "label": ["LW", "TWR"],
             "station_id": "EHLW_TWR",
-            "color": "mint"
+            "color": "azure"
           },
           {
             "label": [],
@@ -528,12 +529,12 @@
           {
             "label": ["MZ", "TWR"],
             "station_id": "EHMZ_TWR",
-            "color": "lilac"
+            "color": "azure"
           },
           {
             "label": ["WO", "TWR"],
             "station_id": "EHWO_TWR",
-            "color": "lilac"
+            "color": "azure"
           },
           {
             "label": [],
@@ -546,12 +547,12 @@
           {
             "label": ["VK", "APP"],
             "station_id": "EHVK_APP",
-            "color": "mint"
+            "color": "azure"
           },
           {
             "label": ["VK", "TWR"],
             "station_id": "EHVK_TWR",
-            "color": "mint"
+            "color": "azure"
           },
           {
             "label": [],
